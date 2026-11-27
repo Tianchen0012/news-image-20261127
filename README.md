@@ -1,10 +1,10 @@
 # news-image-20261127
 
-![bounty](https://make.fun/badge/news-image-20261127.svg)
-![rank](https://make.fun/badge/Tianchen0012/news-image-20261127/rank.svg)
-![reward](https://make.fun/badge/Tianchen0012/news-image-20261127/reward.svg)
+[![make.fun · news-image-20261127](https://make.fun/badge/news-image-20261127.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![rank](https://make.fun/badge/news-image-20261127/Tianchen0012/news-image-20261127/rank.svg)](https://make.fun/bounty/news-image-20261127/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![reward](https://make.fun/badge/news-image-20261127/Tianchen0012/news-image-20261127/reward.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
 
-A make.fun bounty entry: a program that writes `/output/entry.png` — a
+A make.fun bounty entry — see the [bounty page](https://make.fun/bounty/news-image-20261127): a program that writes `/output/entry.png` — a
 1024×1024 newspaper-style poster summing up world news from
 **Friday 27 November 2026**.
 
